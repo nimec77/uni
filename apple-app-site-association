@@ -1,9 +1,15 @@
 {
   "applinks": {
-      "details": [
+    "details": [
       {
-        "appID": "89Z8Z3YS48.ru.mos.gz.dev",
-        "paths": ["*"]
+        "appID": [
+          "89Z8Z3YS48.ru.mos.gz.dev"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
   }

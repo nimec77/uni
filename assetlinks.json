@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.mos.gz",
+      "sha256_cert_fingerprints": [
+        "F2:28:18:58:34:F8:D5:12:3D:37:46:06:D6:6B:D3:94:A8:F2:B8:19:8D:96:92:4C:E9:5F:39:97:D3:39:C6:84"
+      ]
+    }
+  }
+]
